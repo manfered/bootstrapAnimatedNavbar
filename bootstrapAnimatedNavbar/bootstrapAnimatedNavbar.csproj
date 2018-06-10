@@ -130,6 +130,7 @@
     <Content Include="images\links.png" />
     <Content Include="images\mobile.png" />
     <Content Include="images\site_logo.png" />
+    <Content Include="images\site_logo_70pct.png" />
     <Content Include="images\soccor.png" />
     <Content Include="images\tennis.png" />
     <Content Include="images\videos.png" />
